@@ -7,9 +7,9 @@
  <img align="right" alt="coding" width="400" src="https://gestaodeclinicas.ajmed.com.br/wp-content/uploads/2023/09/como-montar-uma-clinica-de-estetica.gif"> </p>
 
 <p style="text-align: justify;">A Pre-final year student at SVNIT Surat, excelling in Data structure and algorithm development and programming (C++, Python, Embedded C, Java, ROS). My expertise expands to full-stack web development (HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB), utilizing MongoDB for backend functionality. Explored environments like Ubuntu and Linux, did simulation with Gazebo, I'm driven to leverage my skills for impactful projects and meaningful contributions.</p>
-<p style="text-align: justify;">Led projects on Remotely operated underwater vehicle, strong in project management. Seeking oppertunities in Software Research and Development.</p>
+<p style="text-align: justify;">Led projects on Remotely operated underwater vehicle, strong in project management. Seeking opportunities in Software Research and Development.</p>
 
-- 📫 Reach me at **dipsihadiya09@gmail.com**.
+- 📫 Reach me at **dipsihadiya09@gmail.com**. 
 
 - ⚡ Fun fact: **I explored an underwater exploration robot 🤖, If an underwater robot could talk, I’m pretty sure it’d complain about always being ‘in deep water’ and never getting a ‘shore’ break. 😅 #OceanLife**
 
