@@ -1,12 +1,12 @@
 <p align="left"> <img src="https://tools.corenexis.com/image/cnxm/M24/12/fabb253f4a.webp" /> </p>
 
 <h1 align="center">👋 Hi, I'm Dipsi Hadiya!</h1>
-<h1 align="center">Bachelor of Technology in Electrical Enginnering.</h1>
+<h1 align="center">Bachelor of Technology in Electrical Enginnering</h1>
 <h2 align="center">Passionat about robotics & innovation....</h2>
 
  <img align="right" alt="coding" width="400" src="https://gestaodeclinicas.ajmed.com.br/wp-content/uploads/2023/09/como-montar-uma-clinica-de-estetica.gif"> </p>
 
-<p style="text-align: justify;">Passionate about technology and innovation, A Pre-final year student at SVNIT Surat, excelling in Data structure and algorithm development and programming (C++, Python, Embedded C, Java, ROS). My expertise expands to full-stack web development (HTML, CSS, JavaScript, EJS, React, Node.js, Express, and MongoDB), utilizing MongoDB for backend functionality. Comfortable with simulation environments Ubuntu and Linux, I'm driven to leverage my skills for impactful projects and meaningful contributions.</p>
+<p style="text-align: justify;">A Pre-final year student at SVNIT Surat, excelling in Data structure and algorithm development and programming (C++, Python, Embedded C, Java, ROS). My expertise expands to full-stack web development (HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB), utilizing MongoDB for backend functionality. Explored environments like Ubuntu and Linux, did simulation with Gazebo, I'm driven to leverage my skills for impactful projects and meaningful contributions.</p>
 <p style="text-align: justify;">Led projects on Remotely operated underwater vehicle, strong in project management. Seeking oppertunities in Software Research and Development.</p>
 
 - 📫 Reach me at **dipsihadiya09@gmail.com**.
