@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://tools.corenexis.com/image/cnxm/M24/12/fabb253f4a.webp" /> </p>
 
 <h1 align="center">👋 Hi, I'm Dipsi Hadiya!</h1>
-<h1 align="center">Bachelor of Technology in Electrical Enginnering</h1>
+<h1 align="center">Bachelor of Technology in Electrical Engineering</h1>
 <h2 align="center">Passionat about robotics & innovation....</h2>
 
  <img align="right" alt="coding" width="400" src="https://gestaodeclinicas.ajmed.com.br/wp-content/uploads/2023/09/como-montar-uma-clinica-de-estetica.gif"> </p>
